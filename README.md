@@ -14,5 +14,5 @@ $ conda install -c conda-forge geemap jupyter-flex voila
 Run the voila server locally
 
 ```
-$ voila --template=flex "./Fire Danger Rating System.ipynb"
+$ voila --template=flex FireDangerRatingSystem.ipynb
 ```
