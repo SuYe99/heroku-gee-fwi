@@ -1,3 +1,6 @@
 voila
-geemap
+ipyleaflet
+ipywidgets
+ipyscales
+earthengine-api
 jupyter-flex
