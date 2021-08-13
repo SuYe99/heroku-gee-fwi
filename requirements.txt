@@ -3,4 +3,4 @@ ipyleaflet
 ipywidgets
 ipyscales
 earthengine-api
-jupyter-flex
+jupyter-flex==0.6.5
